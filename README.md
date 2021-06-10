@@ -6,8 +6,6 @@ student. The lessons I took was heavily towards OOP, C# and Java. I placed the
 projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend.
 
-Github: https://github.com/boole52
-
 Contact: demirosmanfatih@gmail.com
 
 
