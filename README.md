@@ -1,5 +1,5 @@
 # Osman-Fatih-DEMiR
-hi ım Osman Fatih DEMİR,
+Hi,
 I have been graduated from Computer coding section (Associate Degree).
 currently I am a open education Management Information Systems 3rd class
 student. The lessons I took was heavily towards OOP, C# and Java. I placed the
