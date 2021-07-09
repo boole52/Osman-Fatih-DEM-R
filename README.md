@@ -6,7 +6,7 @@ student. The lessons I took was heavily towards OOP, C# and Java. I placed the
 projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend.
 
-Contact: demirosmanfatih@gmail.com
+Linkedin: https://www.linkedin.com/in/osman-fatih-demir/
 
 
 
