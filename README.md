@@ -9,6 +9,12 @@ and Rentecar Backend.
 ![](https://visitor-badge.laobi.icu/badge?page_id=boole52.boole52)
 <br/><br/><br/>
 
+# :earth_americas: Social Media 
+<a href=" https://www.linkedin.com/in/osman-fatih-demir/"></a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/osman-fatih-demir/)
+<br/><br/><br/>
+
+
 # :gear: Technologys 
 
 <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="100"> <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" width="80" > <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="80" ><img src="https://lh3.googleusercontent.com/proxy/4-rPZnc8mLFeyjBNNuOlB15JcT8KVxXNm2acu_WdOjuVzN4PPqgGK7yNHhY15Y2PwSHQi94c8m7lMgQJibEC8Yp4nyCDoc2_Rl8EleQVm25noSU" width="80" height="100">
@@ -16,10 +22,6 @@ and Rentecar Backend.
 <br/><br/><br/>
 
 
-# :earth_americas: Social Media 
-<a href=" https://www.linkedin.com/in/osman-fatih-demir/"></a>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/osman-fatih-demir/)
-<br/><br/><br/>
 
 
 # :rocket: My Top List 
