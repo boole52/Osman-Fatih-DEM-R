@@ -6,7 +6,14 @@ student. The lessons I took was heavily towards OOP, C# and Java. I placed the
 projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend.
 
-Linkedin: https://www.linkedin.com/in/osman-fatih-demir/
+![](https://visitor-badge.laobi.icu/badge?page_id=boole52.boole52)
+# :books: Technologys 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="100"><img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" width="100"> <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="100">
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="100" > <img src="https://lh3.googleusercontent.com/proxy/HEa--KxE7_wCu74QJbsqAqjv2n88DullSL74RNMSgUwnZyJbV64rfK8nEp5oZOoS84i6dc--RzoYAZBXKodelF7uXKGhAoWGLJRdtzoo4Nd7utt3kl__" width="80"> <img src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png" width="100" > <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="100" >
+
+<a href=" https://www.linkedin.com/in/osman-fatih-demir/"></a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/osman-fatih-demir/)
+
 
 
 
@@ -15,5 +22,7 @@ Linkedin: https://www.linkedin.com/in/osman-fatih-demir/
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boole52&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boole52&theme=tokyonight)
+
 
