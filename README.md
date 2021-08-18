@@ -6,7 +6,9 @@ student. The lessons I took was heavily towards OOP, C# and Java. I placed the
 projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
 
-Last Big Project Rent Car Backend: https://github.com/1boole/ReCapProject
+Last big project Rent Car Backend: https://github.com/1boole/ReCapProject
+Last Project: https://github.com/1boole/E-Commerce
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)
 <br/><br/><br/>
