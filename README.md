@@ -1,7 +1,7 @@
 # Osman-Fatih-DEMiR
 Hi,
 I have been graduated from Computer coding section (Associate Degree).
-currently I am a open education Management Information Systems 3rd class
+currently I am a distance learning Management Information Systems 3rd class
 student. The lessons I took was heavily towards OOP, C# and Java. I placed the
 projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
