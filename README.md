@@ -6,7 +6,7 @@ student. The lessons I took was heavily towards OOP, C# and Java. I placed the
 projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
 
-Last big project Rent Car Backend: https://github.com/1boole/FinalProject
+Last big project Northwind Web API Backend: https://github.com/1boole/FinalProject
 
 Last Project: https://github.com/1boole/E-Commerce
 
