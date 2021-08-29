@@ -29,7 +29,7 @@ Last Project: https://github.com/1boole/E-Commerce
 
 
 
-# :rocket: My Top List 
+# :rocket: Status list mine
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1boole&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1boole&theme=tokyonight)
