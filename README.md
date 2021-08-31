@@ -19,7 +19,7 @@ and Rentecar Backend, stay tuned for more.
 
 * Last Monolithic project Northwind: https://github.com/1boole/FinalProject
 * Last MVC Project: https://github.com/1boole/E-Commerce
-
+<br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)
 <br/><br/><br/>
