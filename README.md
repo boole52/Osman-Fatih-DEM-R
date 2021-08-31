@@ -12,7 +12,7 @@ student.
   * Layered Architecture
   * Aspect Oriented Programming
   * Object Oriented Programing
-* I fulfill requests on an institutional or individual basis. (Freelancer)
+* I working fulfill requests on an institutional or individual basis. (Freelancer)
 * I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
 
