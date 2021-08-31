@@ -1,10 +1,10 @@
 # Osman-Fatih-DEMiR
 Hi,
 * I have been graduated from Computer coding section (Associate Degree).
-* Currently I am a distance learning Management Information Systems 3rd class
+* Currently I'm a distance learning Management Information Systems 3rd class
 student. 
 * The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. 
-* Currently Im knows;
+* Currently I'm knows;
   * RestFull
   * Net Framework
   * .Net Core
