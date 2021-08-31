@@ -1,9 +1,19 @@
 # Osman-Fatih-DEMiR
 Hi,
-I have been graduated from Computer coding section (Associate Degree).
-currently I am a distance learning Management Information Systems 3rd class
-student. The lessons I took was heavily towards OOP, C# and Java. I placed the
-projects that I done on GitHub like a mobile puzzle game, mobile translating app
+* I have been graduated from Computer coding section (Associate Degree).
+* Currently I am a distance learning Management Information Systems 3rd class
+student. 
+* The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. 
+* Currently Im knows;
+  * RestFull, 
+  * Net Framework,
+  * .Net Core, 
+  * MVC Design, 
+  * Layered Architecture, 
+  * Aspect Oriented Programming
+  * Object Oriented Programing
+* I fulfill requests on an institutional or individual basis. (Freelancer)
+* I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
 
 Last big project Northwind Web API Backend: https://github.com/1boole/FinalProject
