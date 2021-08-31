@@ -16,9 +16,9 @@ student.
 * I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
 
-Last big project Northwind Web API Backend: https://github.com/1boole/FinalProject
 
-Last Project: https://github.com/1boole/E-Commerce
+* Last Monolithic project Northwind: https://github.com/1boole/FinalProject
+* Last MVC Project: https://github.com/1boole/E-Commerce
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)
