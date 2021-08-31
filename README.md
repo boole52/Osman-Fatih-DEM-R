@@ -5,11 +5,11 @@ Hi,
 student. 
 * The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. 
 * Currently Im knows;
-  * RestFull, 
-  * Net Framework,
-  * .Net Core, 
-  * MVC Design, 
-  * Layered Architecture, 
+  * RestFull
+  * Net Framework
+  * .Net Core
+  * MVC Design
+  * Layered Architecture
   * Aspect Oriented Programming
   * Object Oriented Programing
 * I fulfill requests on an institutional or individual basis. (Freelancer)
