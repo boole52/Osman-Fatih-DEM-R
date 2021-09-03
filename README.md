@@ -1,5 +1,5 @@
 # Osman-Fatih-DEMiR
-Hi,
+Hi I'm Osman-Fatih-DEMiR,
 * I have been graduated from Computer coding section (Associate Degree).
 * Currently I'm a distance learning Management Information Systems 3rd class
 student. 
