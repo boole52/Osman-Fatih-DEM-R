@@ -17,8 +17,9 @@ student.
 and Rentecar Backend, stay tuned for more. 
 
 
-* Last Monolithic project Northwind: https://github.com/1boole/FinalProject
-* Last MVC Project: https://github.com/1boole/E-Commerce
+* Last Monolithic API project: https://github.com/1boole/FinalProject
+* Last MVC project: https://github.com/1boole/E-Commerce
+* Last Angular project: https://github.com/1boole/kamp-Angular
 <br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)
