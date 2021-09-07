@@ -5,7 +5,7 @@ Hi I'm Osman Fatih DEMiR,
 student. 
 * The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. 
 * Currently I'm knows;
-  * RestFull
+  * RestFul
   * Net Framework
   * .Net Core
   * MVC Design
