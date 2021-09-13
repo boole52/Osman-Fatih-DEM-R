@@ -4,15 +4,9 @@ Hi I'm Osman Fatih DEMiR,
 * Currently I'm a distance learning Management Information Systems 3rd class
 student. 
 * The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. 
-* Currently I'm knows;
-  * RestFul
-  * Net Framework
-  * .Net Core
-  * MVC Design
-  * Layered Architecture
-  * Aspect Oriented Programming
-  * Object Oriented Programming
-* I working fulfill requests on an institutional or individual basis. (Freelancer)
+* Creating digital solutions for corporate or individual customers
+Example; corporate website, module development, service development,
+Development consultancy for search engine and user experience (Freelancer)
 * I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. 
 
