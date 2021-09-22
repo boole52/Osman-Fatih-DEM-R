@@ -30,7 +30,7 @@ and Rentecar Backend, stay tuned for more.
 
 
 
-# :rocket: Status list mine
+# :rocket: Status list that's mine
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1boole&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1boole&theme=tokyonight)
