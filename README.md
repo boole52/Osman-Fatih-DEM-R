@@ -1,7 +1,7 @@
 # Osman-Fatih-DEMiR
 Hi I'm Osman Fatih DEMiR,
 * I have been graduated from Computer coding section (Associate Degree).
-* Currently I'm a distance learning Management Information Systems 3rd class
+* Currently I'm a distance learning Management Information Systems 4rd class
 student. 
 * The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. 
 * Creating digital solutions for corporate or individual customers
