@@ -14,7 +14,13 @@ Example; corporate website, module development, service development,
 Development consultancy for search engine and user experience (Freelancer)<br/>
 * I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
 and Rentecar Backend, stay tuned for more. <br/>
-
+![CSharp](https://img.shields.io/badge/C%23-.NET%20CORE-green)
+![Asp.NET MVC](https://img.shields.io/badge/C%23-Asp.Net%20MVC-blue)
+![HTML5](https://img.shields.io/badge/-NoSQL-E34F26?style=flat&logo=NoSQL&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-913131?style=flat&logo=javascript&labelColor=ffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 
 <br/>
 
