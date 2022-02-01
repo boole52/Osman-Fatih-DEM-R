@@ -33,7 +33,7 @@ and Rentecar Backend, stay tuned for more. <br/>
           ⬇️⬇️⬇️ All Links ⬇️⬇️⬇️
  </tr>
 <tr>
-  <td><a href="https://youtube.com/">
+  <td><a href="https://www.youtube.com/channel/UC4vFiAfS2tlKInMC3-GY7RQ/featured">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
 <td><a href="https://twitch.tv/">
