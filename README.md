@@ -16,7 +16,7 @@ and Rentecar Backend, stay tuned for more. <br/>
 
 <br/>
 
-img align="right" alt="avatar" width="200" src="me.JPG"> 
+<img align="right" alt="avatar" width="200" src="me.jpg"> 
 
 
 
