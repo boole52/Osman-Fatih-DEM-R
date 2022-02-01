@@ -40,7 +40,7 @@ and Rentecar Backend, stay tuned for more. <br/>
 <td><a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<td><a href="https://twitter.com/">
+<td><a href="https://twitter.com/1boole">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <td><a href="https://github.com/1boole">
