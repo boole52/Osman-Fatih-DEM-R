@@ -1,6 +1,8 @@
 # Osman-Fatih-DEMiR
 Hi I'm Osman Fatih DEMiR,
 <br/>
+<img align="right" alt="avatar" width="200" src="me.jpg"> 
+
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=1boole.1boole)](#)
 
 * I have been graduated from Computer coding section (Associate Degree). <br/>
@@ -16,7 +18,7 @@ and Rentecar Backend, stay tuned for more. <br/>
 
 <br/>
 
-<img align="right" alt="avatar" width="200" src="me.jpg"> 
+
 
 
 
