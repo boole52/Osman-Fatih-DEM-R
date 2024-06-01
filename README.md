@@ -1,4 +1,4 @@
-# Osman Fatih DEMiR
+# Osman Fatih DEMiR 👋
 <img align="right" alt="avatar" width="200" src="me.jpg"> 
 
 [![Click here for English](https://img.shields.io/badge/Click%20here%20for-English-blue)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/osmanfatihdemir/)
@@ -13,8 +13,7 @@ Bunların yanı sıra, bilişim ve siber güvenlik alanında bilgi paylaşımın
 
 Teknolojiye olan tutkum ve geniş kapsamlı deneyimimle, karmaşık problemlere yenilikçi ve etkili çözümler sunmaya devam etmekteyim.<br/>
 <br/>
-Sevgilerle,<br/>
-Osman Fatih DEMiR
+Sevgiler, Selamlar 👋<br/>
 <hr />
 
 ![CSharp](https://img.shields.io/badge/C%23-.NET%20CORE-green)
