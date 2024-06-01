@@ -1,17 +1,19 @@
-# Osman-Fatih-DEMiR
-Hi I'm Osman Fatih DEMiR,
-<br/>
+# Osman Fatih DEMiR
 <img align="right" alt="avatar" width="200" src="me.jpg"> 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=osmanfatihdemir.osmanfatihdemir)](#)
+Yazılım geliştirme ve bilişim teknolojileri alanında uzun yıllara dayanan deneyime sahip bir profesyonelim. Bilgisayar Programcılığı ve Yönetim Bilişim Sistemleri bölümlerinden mezun oldum.
 
-* I am a graduate of Computer Coding (Associate Degree) and Management Information Systems (Bachelor's Degree)<br/>
-* The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. <br/>
-* Creating digital solutions for corporate or individual customers 
-Example; corporate website, module development, service development,
-Development consultancy for search engine and user experience (Freelancer)<br/>
-* I placed the projects that I done on GitHub like a mobile puzzle game, mobile translating app
-and Rentecar Backend, stay tuned for more. <br/>
+Kariyerim boyunca geniş bir teknoloji yelpazesinde çalıştım ve C#, .NET Core, JavaScript, React, Angular, jQuery, Python gibi önemli dillerde ve teknolojilerde derinlemesine bilgi ve deneyim edindim. Ayrıca, SQL ve NoSQL veritabanları üzerinde çalışarak veri yönetimi alanında uzmanlaştım. Linux ve Windows sunucuları konusunda sağlam bir altyapıya sahibim ve bu platformlar üzerinde çeşitli projelerde görev aldım.
+
+Freelance olarak birçok proje üzerinde çalıştım ve bu süreçte farklı müşteri gereksinimlerini karşılayarak kapsamlı bir deneyim kazandım. Ayrıca, kurumsal ortamlarda da çeşitli projelerde yer aldım ve bu süreçte kendimi sürekli olarak geliştirdim.
+
+Bunların yanı sıra, bilişim ve siber güvenlik alanında bilgi paylaşımını ve iş birliğini teşvik eden Cyber Gru adlı bir topluluğun kurucu ortağıyım. Cyber Gru, sektöre katkıda bulunmayı ve yeni nesil bilişim profesyonellerini desteklemeyi amaçlayan çeşitli platformlar aracılığıyla faaliyet göstermektedir. Daha fazla bilgi için <a href="https://cybergru.org/">cybergru.org</a>'u ziyaret edebilir ve bizi takip edebilirsiniz.
+
+Teknolojiye olan tutkum ve geniş kapsamlı deneyimimle, karmaşık problemlere yenilikçi ve etkili çözümler sunmaya devam etmekteyim.
+Sevgilerle,<br/>
+Osman Fatih DEMiR
+<hr />
+
 ![CSharp](https://img.shields.io/badge/C%23-.NET%20CORE-green)
 ![Asp.NET MVC](https://img.shields.io/badge/C%23-Asp.Net%20MVC-blue)
 ![HTML5](https://img.shields.io/badge/-NoSQL-E34F26?style=flat&logo=NoSQL&logoColor=fff)
@@ -19,9 +21,9 @@ and Rentecar Backend, stay tuned for more. <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-913131?style=flat&logo=javascript&labelColor=ffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=osmanfatihdemir.osmanfatihdemir)](#)
 
 <br/>
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=osmanfatihdemir&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -57,7 +59,6 @@ and Rentecar Backend, stay tuned for more. <br/>
 </a> 
 <td><a href="#">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
   </tr>
 </table>
 
