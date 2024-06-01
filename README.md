@@ -1,6 +1,8 @@
 # Osman Fatih DEMiR
 <img align="right" alt="avatar" width="200" src="me.jpg"> 
 
+[![Click here for English](https://img.shields.io/badge/Click%20here%20for-English-blue)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/osmanfatihdemir/)
+
 Yazılım geliştirme ve bilişim teknolojileri alanında uzun yıllara dayanan deneyime sahip bir profesyonelim. Bilgisayar Programcılığı ve Yönetim Bilişim Sistemleri bölümlerinden mezun oldum.
 
 Kariyerim boyunca geniş bir teknoloji yelpazesinde çalıştım ve C#, .NET Core, JavaScript, React, Angular, jQuery, Python gibi önemli dillerde ve teknolojilerde derinlemesine bilgi ve deneyim edindim. Ayrıca, SQL ve NoSQL veritabanları üzerinde çalışarak veri yönetimi alanında uzmanlaştım. Linux ve Windows sunucuları konusunda sağlam bir altyapıya sahibim ve bu platformlar üzerinde çeşitli projelerde görev aldım.
