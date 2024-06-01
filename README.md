@@ -5,9 +5,7 @@ Hi I'm Osman Fatih DEMiR,
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=osmanfatihdemir.osmanfatihdemir)](#)
 
-* I have been graduated from Computer coding section (Associate Degree). <br/>
-* Currently I'm a distance learning Management Information Systems 4rd class
-student. <br/>
+* I am a graduate of Computer Coding (Associate Degree) and Management Information Systems (Bachelor's Degree)<br/>
 * The lessons I took was heavily towards Object Orianted Programming (OOP), C# and Java. <br/>
 * Creating digital solutions for corporate or individual customers 
 Example; corporate website, module development, service development,
@@ -66,7 +64,7 @@ and Rentecar Backend, stay tuned for more. <br/>
 </br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=1boole&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=osmanfatihdemir&theme=blue-green">
 
 <br/><br/>
 
