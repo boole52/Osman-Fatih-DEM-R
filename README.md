@@ -10,6 +10,7 @@ Freelance olarak birçok proje üzerinde çalıştım ve bu süreçte farklı m�
 Bunların yanı sıra, bilişim ve siber güvenlik alanında bilgi paylaşımını ve iş birliğini teşvik eden Cyber Gru adlı bir topluluğun kurucu ortağıyım. Cyber Gru, sektöre katkıda bulunmayı ve yeni nesil bilişim profesyonellerini desteklemeyi amaçlayan çeşitli platformlar aracılığıyla faaliyet göstermektedir. Daha fazla bilgi için <a href="https://cybergru.org/">cybergru.org</a>'u ziyaret edebilir ve bizi takip edebilirsiniz.
 
 Teknolojiye olan tutkum ve geniş kapsamlı deneyimimle, karmaşık problemlere yenilikçi ve etkili çözümler sunmaya devam etmekteyim.<br/>
+<br/>
 Sevgilerle,<br/>
 Osman Fatih DEMiR
 <hr />
