@@ -21,6 +21,7 @@ Osman Fatih DEMiR
 ![JavaScript](https://img.shields.io/badge/-JavaScript-913131?style=flat&logo=javascript&labelColor=ffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=FFFF99)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=osmanfatihdemir.osmanfatihdemir)](#)
 
 <br/>
