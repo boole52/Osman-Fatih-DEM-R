@@ -50,7 +50,7 @@ Sevgiler, Selamlar 👋<br/>
 <td><a href="https://instagram.com/osmanfatihdemirr">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<td><a href="https://twitter.com/1boole">
+<td><a href="https://x.com/osmanfatihdemir">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <td><a href="https://github.com/osmanfatihdemir">
